@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background-image: url("X.jpeg");
+    background-size: cover;
+    font-family: serif;
+}
+.xmas {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.title {
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+}
+.salutation {
+    /* font-family: serif; */
+}
